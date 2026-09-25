@@ -7,6 +7,6 @@ framing, prefix forcing, encoding obfuscation, authority claim, gradual
 escalation). Используется только против систем, к которым есть законный
 доступ.
 
-Исходный код не публикуется в этом репозитории — только описание проекта.
+Исходный код распространять не хочу — публикую только описание проекта.
 
 **Стек:** Python, Anthropic SDK, pytest.
